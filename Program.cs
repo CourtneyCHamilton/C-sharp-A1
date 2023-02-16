@@ -6,6 +6,9 @@
         {
             Pet pet= new Pet();
             pet.Start();
+
+            Album album= new Album();
+            album.Start();
         }
     }
 }
